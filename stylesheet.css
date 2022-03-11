@@ -1,0 +1,60 @@
+* {
+	font-family: andale mono, monospace;
+	color: black;
+	text-align: center;
+}
+
+body {
+	background-color: mediumpurple;
+	width: 960px;
+	margin: 0 auto;
+	border-style: double;
+}
+
+nav {   
+	background-color: lightyellow;
+	padding:10px
+	margin: 10px;}
+
+}
+li {
+	display: inline-grid;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main { 
+	background-color: lightyellow;
+	padding: 10px;  
+	margin: 10px ;
+}
+
+article {
+	background-color: lightyellow;
+	padding: 10px;
+	margin: 10px;
+	width:  280px;
+	float:  left;
+}
+.mart {
+	background-color: lightyellow;
+
+}
+
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2 {
+	float: center;
+	margin: 10px;}
+
+
+
+
+
+
+  
